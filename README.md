@@ -4,9 +4,9 @@
 
 <a href=""></a>
 <div align="left">
-  <img height="700em" src="./pianofluente.png"/>
-  <img height="700em" src="./pianoresponsivo.png"/>
-  <img height="700em" src="./pianoinferiorresponsivo.png"/>
+  <img height="600em" src="./pianofluente.png"/>
+  <img height="600em" src="./pianoresponsivo.png"/>
+  <img height="600em" src="./pianoinferiorresponsivo.png"/>
 </div>
 
 ### Resumo
