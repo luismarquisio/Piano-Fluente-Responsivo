@@ -1,6 +1,6 @@
 ## Piano-Fluente-Responsivo
 
-[Demo JBL](https://jblresponsivo.netlify.app/)
+[Demo Landing Page](pianofluenteresponsivo.netlify.app)
 
 <a href=""></a>
 <div align="left">
